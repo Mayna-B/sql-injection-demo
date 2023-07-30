@@ -1,11 +1,13 @@
 form {
 	border: 5px solid #f8e092;
+	font: Trebuchet black; 
     }
     
     input[type=text], input[type=password] {
 	width: 100%;
 	padding: 6px 10px;
 	margin: 8px 4px;
+	font: Trebuchet black; 
 	display: inline-block;
 	border: 4px solid rgb(10, 9, 9);
 	box-sizing: border-box;
@@ -19,6 +21,7 @@ form {
 	border: double;
 	cursor: pointer;
 	width: 100%;
+	font: Trebuchet black; 
     }
     
     button:hover {
